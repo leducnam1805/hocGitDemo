@@ -1,0 +1,7 @@
+1) Các bạn tạo ra 2 folder.
+- Folder 1 có tên là client.
+	+Trong client có chứ 2 thư mục là public và views
+	+ Thư mục views chứa 2 file bất kỳ và có dữ liệu
+	+ Thư mục public chứa 1 file có tên là demo.css. Hãy viết 1 đoạn code css vào đây(Viết bất kỳ và lớn hơn 5 dòng).
+- Folder 2 có tên là server: Chứa 3 file có dữ liệu
+2) Đẩy lên github rồi chia sẽ link vào group messenger.!
